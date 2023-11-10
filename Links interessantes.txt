@@ -1,0 +1,11 @@
+Link com os serviços do Google Cloud
+https://googlecloudcheatsheet.withgoogle.com/
+
+Link com mapa dos cabos submarinos
+https://www.submarinecablemap.com/
+
+Link sobre os Data Centers do Google
+https://www.google.com/about/datacenters/
+
+Link com as regiões e zonas do Google Cloud
+https://cloud.google.com/about/locations?hl=pt-br

@@ -1,0 +1,24 @@
+VM - Virtual Machine (Máquina virtual)
+Computador que é acessado na nuvem
+Processador, memória, sistema operacional,
+internet, rede...
+
+Container (Kubernets) - ambiente pré-configurado para executar as aplicações, não é necessário
+fazer as configurações básicas, já vem pronto
+
+Cluster (aglomerado / união) - junção de vários
+computadores para somar as capacidades de processamento e armazenamento
+
+- Tipos de serviços
+IaaS - Infraestrutra (hardware, redes, armazenamento) Ex: Máquina virtual
+PaaS - Plataforma (possui uma base pronta, não precisa se preocupar com a infraestrutura). Ex: container
+SaaS - Software (já está tudo montado, só precisamos informar os dados). Ex: Google Maps
+
+
+
+
+
+
+
+
+
