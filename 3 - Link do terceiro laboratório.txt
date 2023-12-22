@@ -1,1 +1,6 @@
 https://www.cloudskillsboost.google/quests/128
+
+Links para Dicas Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
+https://www.youtube.com/watch?v=MIdxpT2AG2s
+
+https://github.com/CloudHustlers/Google_Cloud_Computing_Foundations/blob/main/8)%20Perform%20Foundational%20Data%2C%20ML%2C%20and%20AI%20Tasks%20in%20Google%20Cloud/Perform%20Foundational%20Data%2C%20ML%2C%20and%20AI%20Tasks%20in%20Google%20Cloud%3A%20Challenge%20Lab%20%23GSP323%20.md
